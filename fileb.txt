@@ -1,2 +1,2 @@
 Hi, this is fileB
-new change has been made 
+making a new change
